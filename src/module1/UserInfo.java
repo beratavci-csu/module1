@@ -2,6 +2,7 @@ package module1;
 
 public class UserInfo {
 	public static void main (String [] args) {
+		//NO CORRECTIONS, PROGRAMS RUNS AS INTENDED
 		String firstName;
 		String lastName;
 		String streetAddress;
